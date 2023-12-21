@@ -42,4 +42,4 @@ async def kick(ctx, member : discord.Member):
     await ctx.send("Користувач {} кікнут із сервера".format(member.mention))
 
 
-bot.run("MTE4NDk2NjQ1OTY2ODA0MTg2OQ.G2UzbN.FSkDdNTa40XSmvMG1YXqK2-TAQiXiuMoo-zK4o")
+bot.run("Put your token here")
